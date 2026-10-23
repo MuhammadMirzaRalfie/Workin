@@ -11,6 +11,8 @@ selesai satu sesi kerja.
 `flutter analyze` bersih, **50 tes lolos**. Tampilan dicek lewat tangkapan
 layar dengan font asli (terang & gelap). **Belum di-build ke HP.**
 
+Repo: https://github.com/MuhammadMirzaRalfie/Workin (branch `main`).
+
 Langkah berikutnya: build APK dan uji di HP (lihat "Perlu dicek di HP").
 
 ---
@@ -68,8 +70,6 @@ Langkah berikutnya: build APK dan uji di HP (lihat "Perlu dicek di HP").
 
 Urutan saran, paling bermanfaat dulu:
 
-- [ ] **Git**: proyek belum di-version control. Disarankan `git init` + commit
-      awal sebelum fitur berikutnya.
 - [ ] **F6 Streak & kalender**: kalender bulanan hari latihan + rekor beruntun.
 - [ ] **Cadangan data**: ekspor/impor riwayat ke file JSON (ganti HP).
 - [ ] **F9 Pengingat minum**: target harian, tombol "+1 gelas", notifikasi
@@ -89,3 +89,4 @@ Urutan saran, paling bermanfaat dulu:
 |---|---|
 | 22 Okt 2026 | v1, redesign, mode gelap, figur semua gerakan |
 | 23 Okt 2026 | Dokumen rancangan & progres; v2: F1, F2, F3, F4, F5, F7 + 29 tes baru |
+| 23 Okt 2026 | Git + push ke GitHub (Workin), README dengan 11 tangkapan layar |
